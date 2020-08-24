@@ -1,2 +1,2 @@
 # MostStarredGithubProjects
-<img src="images/api.JPG" height="600" width="1200" />
+<img src="images/api.JPG" height="500" width="1200" />
